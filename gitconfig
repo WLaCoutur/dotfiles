@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = william.couturier@gmail.com
-	name = William Couturier
+	email = jupyter contrib nbextension install --user
+	name = "# install nbextensions"
